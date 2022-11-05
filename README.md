@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yash714
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning machine learning tools
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Coursera , Internshala and Kaggle.
+- 💞️  I'm open for collaborations in Data Science and Machine Learning domains.
 - 📫 How to reach me ...
 
 <!---
